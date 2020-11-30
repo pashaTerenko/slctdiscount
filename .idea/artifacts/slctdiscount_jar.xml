@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="slctdiscount:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/slctdiscount_jar</output-path>
+    <root id="archive" name="slctdiscount.jar">
+      <element id="module-output" name="slctdiscount" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.13.1/jsoup-1.13.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-csv/1.4/commons-csv-1.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
